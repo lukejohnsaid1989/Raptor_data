@@ -5,4 +5,4 @@ Projects included so far:
 1. A Restaurant review machine learning classifier including a WorldCloud output.
 2. A Web scraper that exports Maltapark postings.
 3. An Image classifier applied to an image scraped live from a Harbor camera (Cirkewwa, Malta).
-4. Combining a web scraper to browse to a Chatbot and training a new chatbot with the output.
+4. Using a web scraper to browse to a Chatbot site and recording the output to train a new chatbot live.
