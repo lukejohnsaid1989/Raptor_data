@@ -7,3 +7,4 @@ Projects included so far:
 3. A web scraper that scrapes job listings, populates a Database with the scraped data and sends an email with the newest job listings: (ScrapeJobListings+SQL+mail.ipynb).
 4. An Image classifier applied to an image scraped live from a Harbor camera (CirkewwaSpy.ipynb).
 5. Using a web crawler to browse to a Chatbot site and recording the output to train a new chatbot live (Chatterbotipynb.ipynb).
+6. Scraping and visualising Malta stock data (BorzaMalta.ipynb).
