@@ -6,3 +6,4 @@ Projects included so far:
 2. An Image classifier applied to an image scraped live from a Harbor camera (CirkewwaSpy.ipynb).
 3. Using a web crawler to browse to a Chatbot site and recording the output to train a new chatbot live (Chatterbotipynb.ipynb).
 4. Scraping and visualising Malta stock data (BorzaMalta.ipynb).
+5. Mining tweets, adding them to an SQLite database and creating a Wordcloud (MaltaNewsTweets.ipynb).
